@@ -2,6 +2,8 @@
 
 # Code Operator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/code-operator-js.svg)](https://greenkeeper.io/)
+
 Utility to make efficient code operations using the Javascript AST.
 Toolset:
 
